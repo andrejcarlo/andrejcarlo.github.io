@@ -1,0 +1,9 @@
+@misc{papuc2026strategizingspeedlearnedmodel,
+      title={Strategizing at Speed: A Learned Model Predictive Game for Multi-Agent Drone Racing}, 
+      author={Andrei-Carlo Papuc and Lasse Peters and Sihao Sun and Laura Ferranti and Javier Alonso-Mora},
+      year={2026},
+      eprint={2602.06925},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2602.06925}, 
+}

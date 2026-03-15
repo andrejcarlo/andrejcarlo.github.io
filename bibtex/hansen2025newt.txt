@@ -1,7 +1,0 @@
-@misc{Hansen2025Newt,
-	title={Learning Massively Multitask World Models for Continuous Control}, 
-	author={Nicklas Hansen, Hao Su, Xiaolong Wang},
-	booktitle={International Conference on Learning Representations (ICLR)},
-	year={2026}
-}
- 
