@@ -1,9 +1,12 @@
-@misc{papuc2026strategizingspeedlearnedmodel,
-      title={Strategizing at Speed: A Learned Model Predictive Game for Multi-Agent Drone Racing}, 
-      author={Andrei-Carlo Papuc and Lasse Peters and Sihao Sun and Laura Ferranti and Javier Alonso-Mora},
-      year={2026},
-      eprint={2602.06925},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2602.06925}, 
+@ARTICLE{papuc2026strategizing,
+  publisher={IEEE}
+  author={Papuc, Andrei-Carlo and Peters, Lasse and Sun, Sihao and Ferranti, Laura and Alonso-Mora, Javier},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Strategizing At Speed: A Learned Model Predictive Game for Multi-Agent Drone Racing}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Modeling;Games;Tracking;Timing;Optimization;Drones;Delays;Planning;Simulation;Learning (artificial intelligence);Autonomous aerial vehicles;multi-robot systems;integrated planning and learning;motion planning},
+  doi={10.1109/LRA.2026.3701568}
 }
