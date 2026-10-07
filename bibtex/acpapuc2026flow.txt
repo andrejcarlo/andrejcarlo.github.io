@@ -1,0 +1,9 @@
+@article{acpapuc2026flowactions,
+      title={Flow Policies as Actions of Skill-Level World Models: Learned and Symbolic Abstractions for Long-Horizon Planning}, 
+      author={Andreu Matoses Gimenez and Andrei-Carlo Papuc and Chris Pek and Javier Alonso-Mora},
+      year={2026},
+      eprint={2610.04767},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2610.04767}, 
+}
